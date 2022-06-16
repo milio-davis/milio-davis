@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @milio-davis
-- 👀 I’m interested in fullstack programming
-- 🌱 I’m currently working with: Javascript, Node.js, Express.js
-- 🌱 I’m looking forward to learning and mastering: Javascript, Node.js, React.js, Python
+- 👀 I’m interested in Fullstack and Android programming
+- 🌱 I’m currently working with: Javascript, Node.js, Kotlin
 - 📫 How to reach me: emilianograniero@gmail.com
 
 <!---
