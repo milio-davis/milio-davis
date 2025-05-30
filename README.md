@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @milio-davis
 - 👀 I’m interested in Data engineering
 - 🌱 I’m currently working with: Python, Oracle SQL, AWS
-- 📫 How to reach me: emilianograniero@gmail.com linkedin.com/in/granieroemiliano/
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/granieroemiliano/) [Email](emilianograniero@gmail.com)
 
 <!---
 milio-davis/milio-davis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
