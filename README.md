@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @milio-davis
-- 👀 I’m interested in Fullstack and Android programming
-- 🌱 I’m currently working with: Javascript, Node.js, Kotlin
+- 👀 I’m interested in Data engineering
+- 🌱 I’m currently working with: Python, Oracle SQL, AWS
 - 📫 How to reach me: emilianograniero@gmail.com
 
 <!---
