@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @milio-davis
 - 👀 I’m interested in Data engineering
-- 🌱 I’m currently working with: Python, Oracle SQL, AWS
+- 🌱 I’m currently working with: Python, AWS
 - 📫 How to reach me:
   * [LinkedIn](https://linkedin.com/in/granieroemiliano/)
   * emilianograniero@gmail.com
